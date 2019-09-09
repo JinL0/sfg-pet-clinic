@@ -60,7 +60,7 @@
     </pluginRepositories>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:jinl0/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:JinL0/sfg-pet-clinic.git</developerConnection>
     </scm>
 
 </project>

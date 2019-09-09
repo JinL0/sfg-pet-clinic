@@ -59,7 +59,8 @@
     </pluginRepositories>
 
     <scm>
-        <connection>scm:git:https://github.com/JinL0/sfg-pet-clinic.git</connection>
+        <url>https://github.com/jinl0/sfg-pet-clinic.git</url>
+        <connection>scm:git:https://github.com/jinl0/sfg-pet-clinic.git</connection>
       <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 
